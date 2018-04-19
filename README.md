@@ -1,4 +1,4 @@
-Project : Linux server configuration
+Project : Movie Trailer Website
 ======================================
 This project is demonstrates the list of movies when clicked displays their trailers.
 It besically creates the movies objects with their properties which includes the link to trailer.

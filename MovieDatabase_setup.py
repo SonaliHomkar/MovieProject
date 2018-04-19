@@ -18,5 +18,4 @@ class Movie(Base):
 engine = create_engine('sqlite:///moviedatabase.db')
 
 Base.metadata.create_all(engine)
-    
-print("done")
+
